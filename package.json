@@ -1,0 +1,23 @@
+{
+  "name": "project-management-system",
+  "version": "1.0.0",
+  "description": "A project managemnet system that manages working projects with all the features of levelwise access to project and tasks with team.",
+  "keywords": [
+    "project",
+    "management",
+    "system",
+    "backend",
+    "master",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Harsh Dixit",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.7.4"
+  }
+}
